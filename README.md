@@ -553,7 +553,7 @@
         <td>дзя</td><td>じゃ、ぢゃ</td>
     </tr>
     <tr>
-        <td>(ди</td><td>ディ</td>
+        <td>ди</td><td>ディ*</td>
     </tr>
     <tr>
         <td>до</td><td>ど</td>
